@@ -1,9 +1,12 @@
 # NLP
-Repo contents Indian Language datasets like Marathi Dataset, News Dataset, web scrappers, python codes and Resources for Indian Languages.
-
+Indian Language datasets like Marathi Dataset, News Dataset, web scrappers, python codes and Resources for Indian Languages.
+------------------------------------------------------------------------------------------------------------
 **Warning**: Using above Resources need to cite following articles to avoid conflict of Intreset.
+------------------------------------------------------------------------------------------------------------
 
+------------------------------------------------------------------------------------------------------------
 **Cite the following article**
+------------------------------------------------------------------------------------------------------------
 
 
   1. B. Shelke, Mahesh, Sawant, DD, Kadam, CB, Ambhure, K, Deshmukh, SN. Marathi SentiWordNet: A lexical resource for sentiment analysis of Marathi. Concurrency Computat Pract Exper. 2023; 35( 2):e7497.  https://doi.org/10.1002/cpe.7497
