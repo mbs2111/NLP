@@ -1,7 +1,8 @@
 # NLP
 Indian Language datasets like Marathi Dataset, News Dataset, web scrappers, python codes and Resources for Indian Languages.
+
 ------------------------------------------------------------------------------------------------------------
-**Warning**: Using above Resources need to cite following articles to avoid conflict of Intreset.
+_**Warning**: Using above Resources need to cite following articles to avoid conflict of Intreset._
 ------------------------------------------------------------------------------------------------------------
 
 ------------------------------------------------------------------------------------------------------------
